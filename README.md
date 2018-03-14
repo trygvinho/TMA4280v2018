@@ -1,6 +1,6 @@
 # TMA4280v2018
 
-Answers.txt for answers
+Answers.pdf for answers
 
 Scripts has the names the exercise text wanted them to have.
 The figures contain timing and errors for mpi and openmp, (no error for mach openmp since it's more or less constant).
