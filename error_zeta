@@ -1,0 +1,25 @@
+ ################################# vtest zeta #####################################
+ For zeta the error of pi after summing           2 elements is:  0.40297995348674265     
+ For zeta the error of pi after summing           4 elements is:  0.21897975488754273     
+ For zeta the error of pi after summing           8 elements is:  0.11429488435473045     
+ For zeta the error of pi after summing          16 elements is:   5.8399720673119493E-002
+ For zeta the error of pi after summing          32 elements is:   2.9518902401486358E-002
+ For zeta the error of pi after summing          64 elements is:   1.4839951223568626E-002
+ For zeta the error of pi after summing         128 elements is:   7.4402192410549794E-003
+ For zeta the error of pi after summing         256 elements is:   3.7252138769741094E-003
+ For zeta the error of pi after summing         512 elements is:   1.8639170963132834E-003
+ For zeta the error of pi after summing        1024 elements is:   9.3231903426094220E-004
+ For zeta the error of pi after summing        2048 elements is:   4.6628244254298679E-004
+ For zeta the error of pi after summing        4096 elements is:   2.3320473870080960E-004
+ For zeta the error of pi after summing        8192 elements is:   1.1665103257296749E-004
+ For zeta the error of pi after summing       16384 elements is:   5.8370465672030747E-005
+ For zeta the error of pi after summing       32768 elements is:   2.9229253733387139E-005
+ For zeta the error of pi after summing       65536 elements is:   1.4658415611545905E-005
+ For zeta the error of pi after summing      131072 elements is:   7.3729385254850399E-006
+ For zeta the error of pi after summing      262144 elements is:   3.7301854765026121E-006
+ For zeta the error of pi after summing      524288 elements is:   1.9088053178073494E-006
+ For zeta the error of pi after summing     1048576 elements is:   9.9811432807683786E-007
+ For zeta the error of pi after summing     2097152 elements is:   5.4276861760627071E-007
+ For zeta the error of pi after summing     4194304 elements is:   3.1509576725596844E-007
+ For zeta the error of pi after summing     8388608 elements is:   2.0125980215723871E-007
+ For zeta the error of pi after summing    16777216 elements is:   1.4434561323994899E-007

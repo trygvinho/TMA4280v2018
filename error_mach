@@ -1,0 +1,25 @@
+ ################################# vtest mach #####################################
+ For mach the error of pi after summing           2 elements is:   9.9566548151110851E-004
+ For mach the error of pi after summing           4 elements is:   9.2255215227571297E-007
+ For mach the error of pi after summing           8 elements is:   4.1145609856740872E-008
+ For mach the error of pi after summing          16 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing          32 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing          64 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing         128 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing         256 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing         512 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing        1024 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing        2048 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing        4096 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing        8192 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing       16384 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing       32768 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing       65536 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing      131072 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing      262144 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing      524288 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing     1048576 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing     2097152 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing     4194304 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing     8388608 elements is:   4.1144418365390845E-008
+ For mach the error of pi after summing    16777216 elements is:   4.1144418365390845E-008
